@@ -24,9 +24,23 @@ Este repositorio contiene Jupyter Notebooks que complementan la clase virtual de
 
 El repositorio está organizado de la siguiente manera:
 
-- `Tema 1: Fundamentos de Data Mining y Aprendizaje Supervisado/`: Carpeta que contiene Jupyter Notebooks relacionados con la clasificación de patrones.
-- `Tema 2: Aprendizaje No Supervisado y Análisis de Datos/`: Carpeta que contiene Jupyter Notebooks relacionados con el agrupamiento de datos.
-- `Tema 3: Aprendizaje en Escenarios Avanzados/`: Carpeta que contiene Jupyter Notebooks relacionados con el agrupamiento de datos.
+- `Tema 1: Fundamentos de Data Mining y Aprendizaje Supervisado/`: Carpeta que contiene Jupyter Notebooks relacionados a:
+  - Árboles de decisión (decision trees)
+  - Bosques aleatorios (random forests)
+  - Redes neuronales (neural networks)
+  - Máquinas de vectores de soporte (support vector machines)
+  - *k*-vecinos más cercanos (*k*-nearest neighbors)
+- `Tema 2: Aprendizaje No Supervisado y Análisis de Datos/`: Carpeta que contiene Jupyter Notebooks relacionados a:
+  - Agrupamiento *k*-means (*k*-means clustering)
+  - Mapas auto-organizados de Kohonen (Kohonen self-organizing maps (SOM))
+  - Selección y extracción de características (feature selection and extraction)
+- `Tema 3: Aprendizaje en Escenarios Avanzados/`: Carpeta que contiene Jupyter Notebooks relacionados a:
+  - Regresión no lineal (árboles de regresión, redes neuronales)
+  - Aprendizaje a partir de datos de transmisión (redes neuronales, árboles de Hoeffding)
+  - Datos desequilibrados
+  - Métodos de conjunto
+  - Aprendizaje profundo
+  - Análisis de texto
 
 ## Uso
 
