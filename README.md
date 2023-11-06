@@ -24,7 +24,7 @@ Este repositorio contiene Jupyter Notebooks que complementan la clase virtual de
 
 El repositorio está organizado de la siguiente manera:
 
-- `Tema 1: Fundamentos de Data Mining y Aprendizaje Supervisado/`: Carpeta que contiene Jupyter Notebooks relacionados a:
+- [`Tema 1: Fundamentos de Data Mining y Aprendizaje Supervisado/`](https://github.com/eugeniomorocho/Notebooks_DataMining/blob/main/Tema1/Caso1.ipynb): Carpeta que contiene Jupyter Notebooks relacionados a:
   - *k*-vecinos más cercanos (*k*-nearest neighbors)
   - Árboles de decisión (decision trees)
   - Bosques aleatorios (random forests)
