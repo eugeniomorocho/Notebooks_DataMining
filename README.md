@@ -18,10 +18,7 @@ Este módulo de "Inteligencia Artificial: Data Mining I" abarca una amplia varie
 
 ## Contenido del Repositorio
 
-Este repositorio contiene Jupyter Notebooks que complementan la clase virtual del módulo. Los temas de los Jupyter Notebooks no necesariamente coinciden exactamente con los contenidos mínimos, pero están diseñados para proporcionar a los estudiantes una base sólida en estos temas y fomentar el aprendizaje práctico. Los horarios de las clases virtuales son los siguientes:
-
-- Viernes: 20:00 - 22:00
-- Sábado: 08:00 - 12:00
+Este repositorio contiene Jupyter Notebooks que complementan la clase virtual del módulo. Los temas de los Jupyter Notebooks no necesariamente coinciden exactamente con los contenidos mínimos, pero están diseñados para proporcionar a los estudiantes una base sólida en estos temas y fomentar el aprendizaje práctico.
 
 ## Estructura del Repositorio
 
@@ -51,6 +48,7 @@ Este repositorio no habría sido posible sin la contribución de numerosos indiv
 
 
 Esperamos que este repositorio sea de utilidad y enriquezca tu experiencia de aprendizaje en el campo de la inteligencia artificial y el data mining. ¡Disfruta de tu estudio y práctica!
+
 
 
 ### *El Equipo de la Maestría en Ciencia de Datos y Máquinas de Aprendizaje con mención en Inteligencia Artificial*
