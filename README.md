@@ -45,10 +45,16 @@ Los Jupyter Notebooks en este repositorio están diseñados para ser una herrami
 
 Si eres estudiante de la Maestría en Ciencia de Datos y Máquinas de Aprendizaje con mención en Inteligencia Artificial en la UIDE y deseas contribuir a este repositorio con material adicional o mejoras, no dudes en abrir una solicitud de extracción (pull request). Tu colaboración es bienvenida y apreciada.
 
-## Contacto
+## Agradecimientos
 
-Para preguntas o comentarios relacionados con este repositorio, por favor ponte en contacto con el profesor del módulo o el personal de soporte de la UIDE.
+Este repositorio no habría sido posible sin la contribución de numerosos individuos y proyectos de código abierto. Agradecemos a todos aquellos que han compartido su conocimiento y recursos con la comunidad.
+
 
 Esperamos que este repositorio sea de utilidad y enriquezca tu experiencia de aprendizaje en el campo de la inteligencia artificial y el data mining. ¡Disfruta de tu estudio y práctica!
 
-![Logo de la Universidad Internacional del Ecuador](https://example.com/imagen-logo.png)
+
+### *El Equipo de la Maestría en Ciencia de Datos y Máquinas de Aprendizaje con mención en Inteligencia Artificial*
+#### *Universidad Internacional del Ecuador*
+##### **Módulo de Inteligencia Artificial: Data Mining I**
+
+![Logo de la Universidad Internacional del Ecuador](UIDElogo.png)
