@@ -18,21 +18,15 @@ Este módulo de "Inteligencia Artificial: Data Mining I" abarca una amplia varie
 
 ## Contenido del Repositorio
 
-Este repositorio contiene Jupyter Notebooks que complementan la clase virtual del módulo. Los temas de los Jupyter Notebooks no necesariamente coinciden exactamente con los contenidos mínimos, pero están diseñados para proporcionar a los estudiantes una base sólida en estos temas y fomentar el aprendizaje práctico.
+Este repositorio contiene Jupyter Notebooks que complementan la clase virtual del módulo. Los temas de los Jupyter Notebooks están diseñados para proporcionar a los estudiantes una base sólida en estos temas y fomentar el aprendizaje práctico.
 
 ## Estructura del Repositorio
 
 El repositorio está organizado de la siguiente manera:
 
-- `Clasificacion_Patrones/`: Carpeta que contiene Jupyter Notebooks relacionados con la clasificación de patrones.
-- `Agrupamiento/`: Carpeta que contiene Jupyter Notebooks relacionados con el agrupamiento de datos.
-- `Regresion_No_Lineal/`: Carpeta que contiene Jupyter Notebooks relacionados con la regresión no lineal.
-- `Aprendizaje_Transmision/`: Carpeta que contiene Jupyter Notebooks relacionados con el aprendizaje a partir de datos de transmisión.
-- `Seleccion_Extraccion_Caracteristicas/`: Carpeta que contiene Jupyter Notebooks relacionados con la selección y extracción de características.
-- `Datos_Desequilibrados/`: Carpeta que contiene Jupyter Notebooks relacionados con el manejo de datos desequilibrados.
-- `Metodos_Conjunto/`: Carpeta que contiene Jupyter Notebooks relacionados con métodos de conjunto.
-- `Aprendizaje_Profundo/`: Carpeta que contiene Jupyter Notebooks relacionados con el aprendizaje profundo.
-- `Analisis_Texto/`: Carpeta que contiene Jupyter Notebooks relacionados con el análisis de texto.
+- `Tema 1: Fundamentos de Data Mining y Aprendizaje Supervisado/`: Carpeta que contiene Jupyter Notebooks relacionados con la clasificación de patrones.
+- `Tema 2: Aprendizaje No Supervisado y Análisis de Datos/`: Carpeta que contiene Jupyter Notebooks relacionados con el agrupamiento de datos.
+- `Tema 3: Aprendizaje en Escenarios Avanzados/`: Carpeta que contiene Jupyter Notebooks relacionados con el agrupamiento de datos.
 
 ## Uso
 
@@ -47,7 +41,7 @@ Si eres estudiante de la Maestría en Ciencia de Datos y Máquinas de Aprendizaj
 Este repositorio no habría sido posible sin la contribución de numerosos individuos y proyectos de código abierto. Agradecemos a todos aquellos que han compartido su conocimiento y recursos con la comunidad.
 
 
-Esperamos que este repositorio sea de utilidad y enriquezca tu experiencia de aprendizaje en el campo de la inteligencia artificial y el data mining. ¡Disfruta de tu estudio y práctica!
+>Esperamos que este repositorio sea de utilidad y enriquezca tu experiencia de aprendizaje en el campo de la inteligencia artificial y el data mining. ¡Disfruta de tu estudio y práctica!
 
 
 
