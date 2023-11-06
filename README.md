@@ -62,8 +62,10 @@ Esperamos que este repositorio sea de utilidad y enriquezca tu experiencia de ap
 
 
 
->**El Equipo de la Maestría en Ciencia de Datos y Máquinas de Aprendizaje con mención en Inteligencia Artificial**
->**Universidad Internacional del Ecuador**
->**Módulo de Inteligencia Artificial: Data Mining I**
+**El Equipo de la Maestría en Ciencia de Datos y Máquinas de Aprendizaje con mención en Inteligencia Artificial**
+
+**Universidad Internacional del Ecuador**
+
+**Módulo de Inteligencia Artificial: Data Mining I**
 
 ![Logo de la Universidad Internacional del Ecuador](UIDElogo.png)
