@@ -44,8 +44,8 @@ Este repositorio no habría sido posible sin la contribución de numerosos indiv
 Esperamos que este repositorio sea de utilidad y enriquezca tu experiencia de aprendizaje en el campo de la inteligencia artificial y el data mining. ¡Disfruta de tu estudio y práctica!
 
 
->### *El Equipo de la Maestría en Ciencia de Datos y Máquinas de Aprendizaje con mención en Inteligencia Artificial*
->#### *Universidad Internacional del Ecuador*
->##### **Módulo de Inteligencia Artificial: Data Mining I**
+### *El Equipo de la Maestría en Ciencia de Datos y Máquinas de Aprendizaje con mención en Inteligencia Artificial*
+#### *Universidad Internacional del Ecuador*
+##### **Módulo de Inteligencia Artificial: Data Mining I**
 
 ![Logo de la Universidad Internacional del Ecuador](UIDElogo.png)
