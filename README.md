@@ -66,6 +66,6 @@ Esperamos que este repositorio sea de utilidad y enriquezca tu experiencia de ap
 
 **Universidad Internacional del Ecuador**
 
-<sup>**Módulo de Inteligencia Artificial: Data Mining I**/<sup>
+<sup>**Módulo de Inteligencia Artificial: Data Mining I**</sup>
 
 ![Logo de la Universidad Internacional del Ecuador](UIDElogo.png)
