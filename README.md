@@ -10,7 +10,22 @@ Este repositorio contiene Jupyter Notebooks que complementan la clase virtual de
 
 El repositorio está organizado de la siguiente manera:
 
-- `Tema 1: Introducción a Data Mining/`: Carpeta que contiene Jupyter Notebooks relacionados a:
+- **Tema 1: Introducción a Data Mining/**: Carpeta que contiene los siguientes Jupyter Notebooks:
+
+  `Tema 1 - Titanic.ipynb`: El objetivo principal es introducir a los estudiantes en las herramientas y técnicas necesarias para importar, analizar y visualizar datos. Investigar la correlación entre la supervivencia y variables como la clase en la que viajaban los pasajeros, el género, entre otros. También utilizaremos herramientas de visualización para representar gráficamente los datos y obtener información valiosa sobre los patrones y las características de los pasajeros del Titanic.  
+    **Tipo de actividad:** sincrónica guiada  
+    **Modalidad:** learning-by-doing  
+    **Semana:** 1
+
+  `Caso Práctico 1 - DATASET.ipynb`:
+
+    **Tipo de actividad:** asincrónica autónoma  
+    **Modalidad:** learning-by-doing  
+    **Semana:** 1
+
+
+
+
   - *k*-vecinos más cercanos (*k*-nearest neighbors)
   - Árboles de decisión (decision trees)
   - Bosques aleatorios (random forests)
@@ -46,13 +61,10 @@ Actividad práctica (4 horas, sábado): Transformación de datos utilizando Pand
 Conjunto de datos sugerido: Breast Cancer Wisconsin dataset, disponible en scikit-learn.
 Actividad práctica adicional para los estudiantes (4 horas, sábado): Los estudiantes pueden explorar un conjunto de datos específico de su elección, como datos de encuestas o datos de ventas minoristas, disponibles en portales gubernamentales o en Kaggle.
 
-- `Tema 3: Modelado y Evaluación en Data Mining/`: Carpeta que contiene Jupyter Notebooks relacionados a:
+- **Tema 3: Modelado y Evaluación en Data Mining/**: Carpeta que contiene Jupyter Notebooks relacionados a:
   - Regresión no lineal (árboles de regresión, redes neuronales)
   - Aprendizaje a partir de datos de transmisión (redes neuronales, árboles de Hoeffding)
   - Datos desequilibrados
-  - Métodos de conjunto
-  - Aprendizaje profundo
-  - Análisis de texto
   * Caso Práctico 3: Reconocimiento de Imágenes con Redes Neuronales Convolucionales (CNN)
 
 Taller de afianzamiento: Construcción y evaluación de varios modelos de aprendizaje automático utilizando un conjunto de datos complejo
