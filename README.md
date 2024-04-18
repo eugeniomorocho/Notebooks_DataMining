@@ -24,7 +24,7 @@ El repositorio está organizado de la siguiente manera:
     **Semana:** 1
 
   
-  * Caso Práctico 1: Clasificación de Patrones en Diagnóstico Médico
+  
 
   Taller de afianzamiento: Utilización de una herramienta de software para explorar y visualizar conjuntos de datos simples
 Caso práctico:
@@ -39,7 +39,9 @@ Conjunto de datos sugerido: Titanic dataset, disponible en Kaggle o en el reposi
 
 Actividad práctica adicional para los estudiantes (4 horas, sábado): Los estudiantes pueden elegir un conjunto de datos de su interés, como el conjunto de datos de vuelos de pasajeros o de crimen en una ciudad, disponibles en portales gubernamentales o en Kaggle. 
 
-- `Tema 2: Preprocesamiento de Datos en Data Mining/`: Carpeta que contiene Jupyter Notebooks relacionados a:
+- **Tema 2: Preprocesamiento de Datos en Data Mining/**: Carpeta que contiene los siguientes Jupyter Notebooks:
+
+ Carpeta que contiene Jupyter Notebooks relacionados a:
   - Agrupamiento *k*-means (*k*-means clustering)
   - Mapas auto-organizados de Kohonen (Kohonen self-organizing maps (SOM))
   - Selección y extracción de características (feature selection and extraction)
@@ -54,13 +56,17 @@ Actividad práctica (4 horas, sábado): Transformación de datos utilizando Pand
 Conjunto de datos sugerido: Breast Cancer Wisconsin dataset, disponible en scikit-learn.
 Actividad práctica adicional para los estudiantes (4 horas, sábado): Los estudiantes pueden explorar un conjunto de datos específico de su elección, como datos de encuestas o datos de ventas minoristas, disponibles en portales gubernamentales o en Kaggle.
 
-- **Tema 3: Modelado y Evaluación en Data Mining/**: Carpeta que contiene Jupyter Notebooks relacionados a:
+- **Tema 3: Modelado y Evaluación en Data Mining/**: Carpeta que contiene los siguientes Jupyter Notebooks:
+
+
   - *k*-vecinos más cercanos (*k*-nearest neighbors)
   - Redes neuronales (neural networks)
   * Caso Práctico 3: Reconocimiento de Imágenes con Redes Neuronales Convolucionales (CNN)
 
 Taller de afianzamiento: Construcción y evaluación de varios modelos de aprendizaje automático utilizando un conjunto de datos complejo
-  Caso práctico: 
+  Caso práctico:
+
+**Caso Práctico 3:*** Clasificación de Patrones en Diagnóstico Médico
 
   Actividad práctica (2 horas, viernes): Selección de características utilizando scikit-learn.
 Conjunto de datos sugerido: Wine dataset, disponible en scikit-learn.
