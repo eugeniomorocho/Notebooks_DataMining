@@ -2,10 +2,6 @@
 
 Este repositorio contiene material complementario al módulo "Inteligencia Artificial: Data Mining I" de la "Maestría en Ciencia de Datos y Máquinas de Aprendizaje con mención en Inteligencia Artificial" de la Universidad Internacional del Ecuador (UIDE). El contenido aquí proporcionado está diseñado para enriquecer la experiencia de aprendizaje de los estudiantes durante el módulo y proporcionar recursos adicionales para el estudio y práctica de conceptos clave en el campo de la inteligencia artificial y el data mining.
 
-## Descripción del Módulo
-
-El módulo de "Inteligencia Artificial: Data Mining I" abarca una amplia variedad de temas en el campo de la inteligencia artificial y el data mining. Los contenidos incluyen:
-
 ## Contenido del Repositorio
 
 Este repositorio contiene Jupyter Notebooks que complementan la clase virtual del módulo. Los temas de los Jupyter Notebooks están diseñados para proporcionar a los estudiantes una base sólida en estos temas y fomentar el aprendizaje práctico.
