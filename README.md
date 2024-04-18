@@ -10,42 +10,44 @@ Este repositorio contiene Jupyter Notebooks que complementan la clase virtual de
 
 El repositorio está organizado de la siguiente manera:
 
-- **Tema 1: Introducción a Data Mining/**: Carpeta que contiene los siguientes Jupyter Notebooks:
+### **Tema 1: Introducción a Data Mining**  
+Carpeta que contiene los siguientes Jupyter Notebooks:
 
   `Taller de afianzamiento 1 - Titanic.ipynb`: El objetivo principal es introducir a los estudiantes en las herramientas y técnicas necesarias para importar, analizar y visualizar datos. Investigar la correlación entre la supervivencia y variables como la clase en la que viajaban los pasajeros, el género, entre otros. También utilizaremos herramientas de visualización para representar gráficamente los datos y obtener información valiosa sobre los patrones y las características de los pasajeros del Titanic.  
-    **Tipo de actividad:** sincrónica guiada  
-    **Modalidad:** learning-by-doing  
-    **Semana:** 1
+  **Tipo de actividad:** sincrónica en contacto con el docente  
+  **Modalidad:** learning-by-doing  
+  **Semana:** 1  
 
-  `Caso práctico 1.ipynb`: 
+  `Caso práctico 1.ipynb`: TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText  
+  **Tipo de actividad:** asincrónica autónoma  
+  **Modalidad:** learning-by-doing  
+  **Semana:** 1
 
-    **Tipo de actividad:** asincrónica autónoma  
-    **Modalidad:** learning-by-doing  
-    **Semana:** 1
 
-  
-  
-
-  Taller de afianzamiento: Utilización de una herramienta de software para explorar y visualizar conjuntos de datos simples
-Caso práctico:
-
-Actividad práctica (2 horas, viernes): Introducción y exploración básica de datos.
-
-Conjunto de datos sugerido: Iris dataset, disponible en scikit-learn o en el repositorio UCI Machine Learning.
-
-Actividad práctica (4 horas, sábado): Análisis exploratorio de datos utilizando Pandas y visualización con Matplotlib o Seaborn.
-
-Conjunto de datos sugerido: Titanic dataset, disponible en Kaggle o en el repositorio UCI Machine Learning.
 
 Actividad práctica adicional para los estudiantes (4 horas, sábado): Los estudiantes pueden elegir un conjunto de datos de su interés, como el conjunto de datos de vuelos de pasajeros o de crimen en una ciudad, disponibles en portales gubernamentales o en Kaggle. 
 
-- **Tema 2: Preprocesamiento de Datos en Data Mining/**: Carpeta que contiene los siguientes Jupyter Notebooks:
+### **Tema 2: Preprocesamiento de Datos en Data Mining**
+Carpeta que contiene los siguientes Jupyter Notebooks:
+
+  `Taller de afianzamiento 2.ipynb`: TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText  
+  **Tipo de actividad:** sincrónica en contacto con el docente  
+  **Modalidad:** learning-by-doing  
+  **Semana:** 2  
+
+  `Caso práctico 2.ipynb`: TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText  
+  **Tipo de actividad:** asincrónica autónoma  
+  **Modalidad:** learning-by-doing  
+  **Semana:** 2
+
 
  Carpeta que contiene Jupyter Notebooks relacionados a:
   - Agrupamiento *k*-means (*k*-means clustering)
   - Mapas auto-organizados de Kohonen (Kohonen self-organizing maps (SOM))
   - Selección y extracción de características (feature selection and extraction)
   * Caso Práctico 2: Agrupamiento de Clientes para Marketing
+
+  Conjunto de datos sugerido: Iris dataset, disponible en scikit-learn o en el repositorio UCI Machine Learning.
 
 Taller de afianzamiento : Aplicación de técnicas de preprocesamiento a un conjunto de datos real para prepararlo para el análisis
   Caso práctico:
@@ -56,17 +58,35 @@ Actividad práctica (4 horas, sábado): Transformación de datos utilizando Pand
 Conjunto de datos sugerido: Breast Cancer Wisconsin dataset, disponible en scikit-learn.
 Actividad práctica adicional para los estudiantes (4 horas, sábado): Los estudiantes pueden explorar un conjunto de datos específico de su elección, como datos de encuestas o datos de ventas minoristas, disponibles en portales gubernamentales o en Kaggle.
 
-- **Tema 3: Modelado y Evaluación en Data Mining/**: Carpeta que contiene los siguientes Jupyter Notebooks:
+### **Tema 3: Modelado y Evaluación en Data Mining**
+Carpeta que contiene los siguientes Jupyter Notebooks:
+
+`Taller de afianzamiento 3.ipynb`: TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText  
+**Tipo de actividad:** sincrónica en contacto con el docente  
+**Modalidad:** learning-by-doing  
+**Semana:** 3  
+
+`Caso práctico 3.ipynb`: TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText  
+**Tipo de actividad:** asincrónica autónoma  
+**Modalidad:** learning-by-doing  
+**Semana:** 3
+
 
 
   - *k*-vecinos más cercanos (*k*-nearest neighbors)
   - Redes neuronales (neural networks)
-  * Caso Práctico 3: Reconocimiento de Imágenes con Redes Neuronales Convolucionales (CNN)
+
 
 Taller de afianzamiento: Construcción y evaluación de varios modelos de aprendizaje automático utilizando un conjunto de datos complejo
   Caso práctico:
 
-**Caso Práctico 3:*** Clasificación de Patrones en Diagnóstico Médico
+**Caso Práctico 3:*** 
+
+  `Caso práctico 3.ipynb`: Clasificación de Patrones en Diagnóstico Médico
+
+    **Tipo de actividad:** asincrónica autónoma  
+    **Modalidad:** learning-by-doing  
+    **Semana:** 1
 
   Actividad práctica (2 horas, viernes): Selección de características utilizando scikit-learn.
 Conjunto de datos sugerido: Wine dataset, disponible en scikit-learn.
