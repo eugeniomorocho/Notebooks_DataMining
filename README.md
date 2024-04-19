@@ -10,10 +10,10 @@ Este repositorio contiene Jupyter Notebooks que complementan la clase virtual de
 
 El repositorio está organizado de la siguiente manera:
 
-### **Tema 1: Introducción a Data Mining**  
+### **Tema 1: Introducción a Data Mining/**  
 Carpeta que contiene los siguientes Jupyter Notebooks:
 
-  `Taller de afianzamiento 1 - Titanic.ipynb`: El objetivo principal es introducir a los estudiantes en las herramientas y técnicas necesarias para importar, analizar y visualizar datos básicos. Investigaremos la correlación entre la supervivencia y variables como el género y la clase en la que viajaban los pasajeros del Titanic. También utilizaremos herramientas de visualización para representar gráficamente los datos y obtener información valiosa sobre los patrones y las características de los pasajeros.  
+  `Taller de afianzamiento 1 - Análisis exploratorio del Titanic.ipynb`: El objetivo principal es introducir a los estudiantes en las herramientas y técnicas necesarias para importar, analizar y visualizar datos básicos. Investigaremos la correlación entre la supervivencia y variables como el género y la clase en la que viajaban los pasajeros del Titanic. También utilizaremos herramientas de visualización para representar gráficamente los datos y obtener información valiosa sobre los patrones y las características de los pasajeros.  
   **Tipo de actividad:** Sincrónica en contacto con el docente  
   **Modalidad:** Learning-by-doing  
   **Semana:** 1  
@@ -25,7 +25,7 @@ Carpeta que contiene los siguientes Jupyter Notebooks:
 
 
 
-### **Tema 2: Preprocesamiento de Datos en Data Mining**
+### **Tema 2: Preprocesamiento de Datos en Data Mining/**
 Carpeta que contiene los siguientes Jupyter Notebooks:
 
   `Taller de afianzamiento 2.ipynb`: TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText  
@@ -54,10 +54,10 @@ Conjunto de datos sugerido: Boston Housing dataset
 Conjunto de datos sugerido: Breast Cancer Wisconsin dataset, disponible en scikit-learn.
 
 
-### **Tema 3: Modelado y Evaluación en Data Mining**
+### **Tema 3: Modelado y Evaluación en Data Mining/**
 Carpeta que contiene los siguientes Jupyter Notebooks:
 
-  `Taller de afianzamiento 3.ipynb`: TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText  
+  `Taller de afianzamiento 3 - Clasificación de flores IRIS con kNN.ipynb`: En este taller usaremos el algoritmo de aprendizaje supervisado k-vecinos más cercanos (kNN) para clasificar las flores IRIS en función de las medidas de sépalos y pétalos. El taller abarca varias etapas que incluyen recopilación y preparación de datos, análisis exploratorio de datos, preprocesamiento de datos, construcción de un modelo de clasificación utilizando el algoritmo kNN, evaluación del modelo, ajuste de hiperparámetros y visualización de límites de decisión.
   **Tipo de actividad:** Sincrónica en contacto con el docente  
   **Modalidad:** Learning-by-doing  
   **Semana:** 3  
