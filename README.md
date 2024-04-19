@@ -25,8 +25,6 @@ Carpeta que contiene los siguientes Jupyter Notebooks:
 
 
 
-Actividad práctica adicional para los estudiantes (4 horas, sábado): Los estudiantes pueden elegir un conjunto de datos de su interés, como el conjunto de datos de vuelos de pasajeros o de crimen en una ciudad, disponibles en portales gubernamentales o en Kaggle. 
-
 ### **Tema 2: Preprocesamiento de Datos en Data Mining**
 Carpeta que contiene los siguientes Jupyter Notebooks:
 
@@ -35,64 +33,51 @@ Carpeta que contiene los siguientes Jupyter Notebooks:
   **Modalidad:** learning-by-doing  
   **Semana:** 2  
 
+  Limpieza de datos utilizando Pandas.
+  Transformación de datos utilizando Pandas y scikit-learn.
+
   `Caso práctico 2.ipynb`: TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText  
   **Tipo de actividad:** asincrónica autónoma  
   **Modalidad:** learning-by-doing  
   **Semana:** 2
 
+  Agrupamiento *k*-means (*k*-means clustering)
+  Selección y extracción de características (feature selection and extraction)
 
- Carpeta que contiene Jupyter Notebooks relacionados a:
-  - Agrupamiento *k*-means (*k*-means clustering)
-  - Mapas auto-organizados de Kohonen (Kohonen self-organizing maps (SOM))
-  - Selección y extracción de características (feature selection and extraction)
-  * Caso Práctico 2: Agrupamiento de Clientes para Marketing
+  Caso Práctico 2: Agrupamiento de Clientes para Marketing
 
-  Conjunto de datos sugerido: Iris dataset, disponible en scikit-learn o en el repositorio UCI Machine Learning.
+  Conjunto de datos sugerido: 
+  Iris dataset
 
-Taller de afianzamiento : Aplicación de técnicas de preprocesamiento a un conjunto de datos real para prepararlo para el análisis
-  Caso práctico:
+Conjunto de datos sugerido: Boston Housing dataset
 
-  Actividad práctica (2 horas, viernes): Limpieza de datos utilizando Pandas.
-Conjunto de datos sugerido: Boston Housing dataset, disponible en scikit-learn.
-Actividad práctica (4 horas, sábado): Transformación de datos utilizando Pandas y scikit-learn.
 Conjunto de datos sugerido: Breast Cancer Wisconsin dataset, disponible en scikit-learn.
-Actividad práctica adicional para los estudiantes (4 horas, sábado): Los estudiantes pueden explorar un conjunto de datos específico de su elección, como datos de encuestas o datos de ventas minoristas, disponibles en portales gubernamentales o en Kaggle.
+
 
 ### **Tema 3: Modelado y Evaluación en Data Mining**
 Carpeta que contiene los siguientes Jupyter Notebooks:
 
-`Taller de afianzamiento 3.ipynb`: TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText  
-**Tipo de actividad:** sincrónica en contacto con el docente  
-**Modalidad:** learning-by-doing  
-**Semana:** 3  
+  `Taller de afianzamiento 3.ipynb`: TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText  
+  **Tipo de actividad:** sincrónica en contacto con el docente  
+  **Modalidad:** learning-by-doing  
+  **Semana:** 3  
 
-`Caso práctico 3.ipynb`: TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText  
-**Tipo de actividad:** asincrónica autónoma  
-**Modalidad:** learning-by-doing  
-**Semana:** 3
-
-
+  `Caso práctico 3.ipynb`: TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText  
+  **Tipo de actividad:** asincrónica autónoma  
+  **Modalidad:** learning-by-doing  
+  **Semana:** 3
 
   - *k*-vecinos más cercanos (*k*-nearest neighbors)
   - Redes neuronales (neural networks)
 
-
-Taller de afianzamiento: Construcción y evaluación de varios modelos de aprendizaje automático utilizando un conjunto de datos complejo
-  Caso práctico:
-
-**Caso Práctico 3:*** 
-
-  `Caso práctico 3.ipynb`: Clasificación de Patrones en Diagnóstico Médico
-
-    **Tipo de actividad:** asincrónica autónoma  
-    **Modalidad:** learning-by-doing  
-    **Semana:** 1
+Clasificación de Patrones en Diagnóstico Médico
 
   Actividad práctica (2 horas, viernes): Selección de características utilizando scikit-learn.
-Conjunto de datos sugerido: Wine dataset, disponible en scikit-learn.
-Actividad práctica (4 horas, sábado): Implementación de diferentes modelos de aprendizaje automático con scikit-learn.
+
 Conjunto de datos sugerido: Heart Disease dataset, disponible en scikit-learn.
-Actividad práctica adicional para los estudiantes (4 horas, sábado): Los estudiantes pueden seleccionar un conjunto de datos de su elección y aplicar un modelo de aprendizaje automático adecuado, como datos de redes sociales o datos de rendimiento de estudiantes, disponibles en Kaggle u otras fuentes en línea.
+
+
+
 
 
 ## Uso
