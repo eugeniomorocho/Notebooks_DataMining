@@ -13,14 +13,14 @@ El repositorio está organizado de la siguiente manera:
 ### **Tema 1: Introducción a Data Mining**  
 Carpeta que contiene los siguientes Jupyter Notebooks:
 
-  `Taller de afianzamiento 1 - Titanic.ipynb`: El objetivo principal es introducir a los estudiantes en las herramientas y técnicas necesarias para importar, analizar y visualizar datos. Investigar la correlación entre la supervivencia y variables como la clase en la que viajaban los pasajeros, el género, entre otros. También utilizaremos herramientas de visualización para representar gráficamente los datos y obtener información valiosa sobre los patrones y las características de los pasajeros del Titanic.  
-  **Tipo de actividad:** sincrónica en contacto con el docente  
-  **Modalidad:** learning-by-doing  
+  `Taller de afianzamiento 1 - Titanic.ipynb`: El objetivo principal es introducir a los estudiantes en las herramientas y técnicas necesarias para importar, analizar y visualizar datos básicos. Investigaremos la correlación entre la supervivencia y variables como el género y la clase en la que viajaban los pasajeros del Titanic. También utilizaremos herramientas de visualización para representar gráficamente los datos y obtener información valiosa sobre los patrones y las características de los pasajeros.  
+  **Tipo de actividad:** Sincrónica en contacto con el docente  
+  **Modalidad:** Learning-by-doing  
   **Semana:** 1  
 
-  `Caso práctico 1.ipynb`: TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText  
-  **Tipo de actividad:** asincrónica autónoma  
-  **Modalidad:** learning-by-doing  
+  `Caso práctico 1.ipynb`: En este caso práctico, los estudiantes explorarán la base de datos ____ y probarán las hipótesis _______.  
+  **Tipo de actividad:** Asincrónica autónoma  
+  **Modalidad:** Learning-by-doing, low-code   
   **Semana:** 1
 
 
@@ -29,16 +29,16 @@ Carpeta que contiene los siguientes Jupyter Notebooks:
 Carpeta que contiene los siguientes Jupyter Notebooks:
 
   `Taller de afianzamiento 2.ipynb`: TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText  
-  **Tipo de actividad:** sincrónica en contacto con el docente  
-  **Modalidad:** learning-by-doing  
+  **Tipo de actividad:** Sincrónica en contacto con el docente  
+  **Modalidad:** Learning-by-doing  
   **Semana:** 2  
 
   Limpieza de datos utilizando Pandas.
   Transformación de datos utilizando Pandas y scikit-learn.
 
   `Caso práctico 2.ipynb`: TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText  
-  **Tipo de actividad:** asincrónica autónoma  
-  **Modalidad:** learning-by-doing  
+  **Tipo de actividad:** Asincrónica autónoma  
+  **Modalidad:** Learning-by-doing, low-code    
   **Semana:** 2
 
   Agrupamiento *k*-means (*k*-means clustering)
@@ -58,13 +58,13 @@ Conjunto de datos sugerido: Breast Cancer Wisconsin dataset, disponible en sciki
 Carpeta que contiene los siguientes Jupyter Notebooks:
 
   `Taller de afianzamiento 3.ipynb`: TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText  
-  **Tipo de actividad:** sincrónica en contacto con el docente  
-  **Modalidad:** learning-by-doing  
+  **Tipo de actividad:** Sincrónica en contacto con el docente  
+  **Modalidad:** Learning-by-doing  
   **Semana:** 3  
 
   `Caso práctico 3.ipynb`: TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText  
-  **Tipo de actividad:** asincrónica autónoma  
-  **Modalidad:** learning-by-doing  
+  **Tipo de actividad:** Asincrónica autónoma  
+  **Modalidad:** Learning-by-doing, low-code  
   **Semana:** 3
 
   - *k*-vecinos más cercanos (*k*-nearest neighbors)
@@ -92,9 +92,7 @@ Si eres estudiante de la Maestría en Ciencia de Datos y Máquinas de Aprendizaj
 
 Este repositorio no habría sido posible sin la contribución de numerosos individuos y proyectos de código abierto. Agradecemos a todos aquellos que han compartido su conocimiento y recursos con la comunidad.
 
-
 Esperamos que este repositorio sea de utilidad y enriquezca tu experiencia de aprendizaje en el campo de la inteligencia artificial y el data mining. ¡Disfruta de tu estudio y práctica!
-
 
 
 **El Equipo de la Maestría en Ciencia de Datos y Máquinas de Aprendizaje con mención en Inteligencia Artificial**
