@@ -10,8 +10,9 @@ Este repositorio contiene Jupyter Notebooks que complementan la clase virtual de
 
 El repositorio está organizado de la siguiente manera:
 
-### **Tema 1: Introducción a Data Mining/**  
-Carpeta que contiene los siguientes Jupyter Notebooks:
+### **Tema 1: Introducción a Data Mining/**
+
+La carpeta contiene los siguientes Jupyter Notebooks:
 
   `Taller de afianzamiento 1 - Análisis exploratorio del Titanic.ipynb`: El objetivo principal es introducir a los estudiantes en las herramientas y técnicas necesarias para importar, analizar y visualizar datos básicos. Investigaremos la correlación entre la supervivencia y variables como el género y la clase en la que viajaban los pasajeros del Titanic. También utilizaremos herramientas de visualización para representar gráficamente los datos y obtener información valiosa sobre los patrones y las características de los pasajeros.  
   **Tipo de actividad:** Sincrónica en contacto con el docente  
