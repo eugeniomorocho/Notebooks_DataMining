@@ -27,26 +27,26 @@ La carpeta contiene los siguientes Jupyter Notebooks de la semana 1:
 ### **Tema 2: Preprocesamiento de Datos en Data Mining**
 Carpeta que contiene los siguientes Jupyter Notebooks de la semana 2:
 
-  `Lectura 2.1 - Clustering con KMeans.ipynb`
+  `Lectura 2.1 - Clustering con KMeans.ipynb`  
   **Tipo de actividad:** Sincrónica en contacto con el docente 
 
-  `Lectura 2.2 - Agrupamiento de Clientes para Marketing.ipynb`
+  `Lectura 2.2 - Agrupamiento de Clientes para Marketing.ipynb`  
   **Tipo de actividad:** Sincrónica en contacto con el docente  
 
-  `Caso práctico 2.ipynb`:
+  `Caso práctico 2.ipynb`  
   **Tipo de actividad:** Asincrónica autónoma 
 
 
 ### **Tema 3: Modelado y Evaluación en Data Mining**
 Carpeta que contiene los siguientes Jupyter Notebooks de la semana 3:
 
-  `Lectura 3.1 - Clasificación de IRIS con kNN.ipynb`
+  `Lectura 3.1 - Clasificación de IRIS con kNN.ipynb`  
   **Tipo de actividad:** Sincrónica en contacto con el docente 
 
-   `Lectura 3.2 - Diagnóstico de Diabetes con una red neuronal.ipynb`
+   `Lectura 3.2 - Diagnóstico de Diabetes con una red neuronal.ipynb`  
   **Tipo de actividad:** Sincrónica en contacto con el docente  
   
-  `Caso práctico 3.ipynb`:
+  `Caso práctico 3.ipynb`:  
   **Tipo de actividad:** Asincrónica autónoma  
 
 
