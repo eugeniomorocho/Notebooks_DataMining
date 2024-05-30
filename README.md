@@ -17,23 +17,23 @@ La carpeta contiene los siguientes Jupyter Notebooks de la semana 1:
   `Lectura 1.1 - Análisis exploratorio de datos del Titanic.ipynb`  
   **Tipo de actividad:** Sincrónica en contacto con el docente  
 
-  `Lectura 1.2 - Procesamiento de datos para análisis de crédito.ipynb`  
+  `Lectura 1.2 - Análisis exploratorio de datos de vinos Piedmont.ipynb`  
   **Tipo de actividad:** Sincrónica en contacto con el docente 
 
-  `Prueba práctica 1.ipynb`  
+  `Prueba práctica 1 - Análisis exploratorio con los datos de California Housing Prices.ipynb`  
   **Tipo de actividad:** Asincrónica autónoma   
 
 
 ### **Tema 2: Preprocesamiento de Datos en Data Mining**
 Carpeta que contiene los siguientes Jupyter Notebooks de la semana 2:
 
-  `Lectura 2.1 - Clustering con KMeans.ipynb`  
+  `Lectura 2.1 - Agrupamiento de clientes de un centro comercial con KMeans.ipynb`  
   **Tipo de actividad:** Sincrónica en contacto con el docente 
 
-  `Lectura 2.2 - Agrupamiento de Clientes para Marketing.ipynb`  
+  `Lectura 2.2 - Preprocesamiento de datos para análisis de crédito.ipynb`  
   **Tipo de actividad:** Sincrónica en contacto con el docente  
 
-  `Prueba práctica 2.ipynb`  
+  `Prueba práctica 2 - Manejo de outliers y operaciones por grupo para transacciones e-commerce.ipynb`  
   **Tipo de actividad:** Asincrónica autónoma 
 
 
@@ -43,10 +43,10 @@ Carpeta que contiene los siguientes Jupyter Notebooks de la semana 3:
   `Lectura 3.1 - Clasificación de IRIS con kNN.ipynb`  
   **Tipo de actividad:** Sincrónica en contacto con el docente 
 
-   `Lectura 3.2 - Diagnóstico de Diabetes con una red neuronal.ipynb`  
+   `Lectura 3.2 - Predicción de diabetes con una red neuronal.ipynb`  
   **Tipo de actividad:** Sincrónica en contacto con el docente  
   
-  `Prueba práctica 3.ipynb`:  
+  `Prueba práctica 3 - Clasificación de pinguinos de la Isla Palmer con un MLP.ipynb`:  
   **Tipo de actividad:** Asincrónica autónoma  
 
 
